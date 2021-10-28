@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romes.
-- 👀 I’m interested in software development and embedded systems.
-- 🌱 I’m currently learning C# and Xamarin.Forms.
+- 👀 I’m interested in Student of Software engineering in Copenhagen.
+- 🌱 I’m currently learning Python, Django, NoSQL, SQL.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me --> roman.zvoda@yahoo.com
 
