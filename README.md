@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Romes.
-- 👀 I’m interested in Student of Software engineering in Copenhagen.
+- 👀 I’m Student of Software engineering in Copenhagen.
 - 🌱 I’m currently learning Python, Django, NoSQL, SQL.
 - 💞️ I’m looking to collaborate on software development projects.
-- 📫 How to reach me --> roman.zvoda@yahoo.com
+- 📫 How to reach me --> roman.zvoda@yahoo.com / romanzvoda.space
 
 <!---
 Romes8/Romes8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
