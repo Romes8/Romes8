@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python, Django, NoSQL, SQL.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me --> roman.zvoda@yahoo.com / romanzvoda.space
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Romes8&show_icons=true)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Romes8&theme=blue-green)
 
 
