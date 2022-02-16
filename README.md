@@ -5,7 +5,7 @@
 - 📫 How to reach me --> roman.zvoda@yahoo.com / romanzvoda.space
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=Romes8)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Romes8&show_icons=true)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Romes8&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Romes8&show_icons=true)  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
