@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Romes.
+- 👋 Hi, I’m @Romes8.
 - 👀 I’m Student of Software engineering in Copenhagen.
 - 🌱 I’m currently learning Python, Django, NoSQL, SQL.
 - 💞️ I’m looking to collaborate on software development projects.
