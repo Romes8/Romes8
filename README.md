@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romes8.
-- 👀 I’m Student of Software engineering in Copenhagen.
-- 🌱 I’m currently learning Python, Django, NoSQL, SQL.
+- 👀 Software Engineering graduate.
+- 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me --> roman.zvoda@yahoo.com / romanzvoda.space
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=Romes8)
