@@ -2,7 +2,7 @@
 - 👀 Software Engineering graduate.
 - 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on software development projects.
-- 📫 How to reach me --> roman.zvoda@yahoo.com / romanzvoda.space
+- 📫 How to reach me --> roman.zvoda@yahoo.com / www.romanzvoda.space
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=Romes8)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Romes8&show_icons=true)  
