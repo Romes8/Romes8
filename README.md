@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Romes8.
-- 👀 Software Engineering graduate.
+- 👀 Msc. Technology in games/ Software development
 - 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me --> roman.zvoda@yahoo.com / www.romanzvoda.space
